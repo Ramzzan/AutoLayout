@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="person" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="wIN-Ga-8wc">
-                                <rect key="frame" x="20" y="95.5" width="374" height="132"/>
+                                <rect key="frame" x="20" y="95.5" width="374" height="141"/>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -25,7 +25,7 @@
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="wIN-Ga-8wc" secondAttribute="trailing" constant="20" id="Ko2-Qj-Ny4"/>
                             <constraint firstItem="wIN-Ga-8wc" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="Oju-Pj-lS4"/>
-                            <constraint firstItem="wIN-Ga-8wc" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.15" id="W5p-OG-Wej"/>
+                            <constraint firstItem="wIN-Ga-8wc" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.16" id="W5p-OG-Wej"/>
                             <constraint firstItem="wIN-Ga-8wc" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="zNj-X2-dZI"/>
                         </constraints>
                     </view>
